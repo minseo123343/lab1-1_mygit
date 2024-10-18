@@ -1,0 +1,7 @@
+# 두 숫자를 더하는 함수
+def add_numbers(a, b):
+    return a + b
+
+# 함수 호출
+result = add_numbers(3, 5)
+print(f"두 숫자의 합: {result}")
